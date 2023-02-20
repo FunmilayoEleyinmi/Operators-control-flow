@@ -16,6 +16,7 @@ if (StudentType === 'Science') {
 } else {
     console.log('English, Mathematics');
 }
+// output = English, Mathematics, Government, Economics, Literature, History
 
 
 
@@ -35,4 +36,7 @@ let nearestPowerOfTwo = num => {
     return base;
 };
 console.log(nearestPowerOfTwo(num));
+// output =16
+
 console.log('The number 16 is the power of 2 nearest to 20');
+// output = The number 16 is the power of 2 nearest to 20
